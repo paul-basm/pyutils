@@ -1,3 +1,3 @@
 # pyutils
 
-Python Utilities Projects
+Python Utilities Project
